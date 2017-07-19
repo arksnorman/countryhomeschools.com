@@ -62,7 +62,7 @@ overlayOpacity: "0.8"
 					    </ul>
 					    <div class="colorful-tab-container">  
 					      <div class="colorful-tab-content active" id="elp-0">  
-					        <p>Country Home ensures that all learners are given a wide range of experiences and are encourage to achieve their full potential and to live out the school motto ’Deed Not Words ‘Learners are provided with every opportunity and encouraged to achieve success, which takes place in a welcoming stimulating and safe environment which supports learners ‘learning and achievements in all areas, country Homes works in partnership with parents and the Religious counminty.</p>
+					        <p>Country Home ensures that all learners are given a wide range of experiences and are encourage to achieve their full potential and to live out the school motto ’Be Objective ‘Learners are provided with every opportunity and encouraged to achieve success, which takes place in a welcoming stimulating and safe environment which supports learners ‘learning and achievements in all areas, country Homes works in partnership with parents and the Religious counminty.</p>
 					      </div>
 					      <div class="colorful-tab-content" id="elp-1"> 					        
 					          <ul>

@@ -13,7 +13,8 @@
 							<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
 						</div>
 						<div class="ftr-text">
-							<p>Kimukunda P.O BOX 370 Kyotera</p>
+							<p>Kimukunda, Mutukula-Bukooba RD 12KM From Kyotera Town Council</p>
+							<p>P.O BOX 370 Kyotera</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -22,7 +23,9 @@
 							<span class="glyphicon glyphicon-phone" aria-hidden="true"></span>
 						</div>
 						<div class="ftr-text">
-							<p>+256777777777</p>
+							<p>+256 772-646-050</p>
+							<p>+256 702-040-100</p>
+							<p>+256 780-711-988</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>

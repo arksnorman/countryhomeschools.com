@@ -25,8 +25,11 @@
 			 	<h3>Contact Info</h3>
 			 	<p></p>
 			 	<ul>
-			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span><p>Director Home Country Schools</p></li>
-			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span><p>+256 755 784 978</p></li>			    	
+			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span><p>Director Country Home Schools</p></li>
+			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span><p>+256 772-646-050</p></li>
+			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span><p>+256 702-040-100</p></li>
+			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span><p>+256 780-711-988</p></li>
+			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span><p>+256 702-227-033</p></li>			    	
 			    	<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"> </span><p><a href="mailto:info@example.com">director@countryhomeschools.com</a></p></li>
 			    </ul>
 			 	</div>
