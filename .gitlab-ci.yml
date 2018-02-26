@@ -1,0 +1,12 @@
+image: ubuntu:latest
+
+stages:
+  - deploy
+
+uplaod-website:
+  stage: deploy
+  script:
+    - apt-get update -qq && apt-get install -y -qq lftp
+    - lftp -c "set ftp:ssl-allow no; open -u $USERNAME,$PASSWORD $HOST; mirror -Rev ./ ./countryhomeschools.com --ignore-time --parallel=10 --exclude-glob .git* --exclude .git/ --exclude .php7*"
+  only:
+    - master
