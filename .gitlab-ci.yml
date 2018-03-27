@@ -3,7 +3,7 @@ image: ubuntu:latest
 stages:
   - deploy
 
-uplaod-website:
+deploy-website:
   stage: deploy
   script:
     - apt-get update -qq && apt-get install -y -qq lftp
